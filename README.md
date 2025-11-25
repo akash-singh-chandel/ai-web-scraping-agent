@@ -90,5 +90,3 @@ Always respect website terms of service and robots.txt. Do not scrape private or
 4. Add logging and token-usage monitoring to control costs.
 
 ---
-
-This README is intentionally compact. If you want, I can add a CONTRIBUTING guide, example unit tests, or a refactor patch that implements raw-HTML fetching and a retry/backoff utility.
